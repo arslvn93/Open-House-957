@@ -77,26 +77,7 @@ const config = {
       "#d9ac68"
     ]
   },
-  "modalQuestions": [
-    {
-      "id": "agent_status",
-      "questionText": "Are you currently exploring homes with a real estate agent?",
-      "options": [
-        {
-          "value": "committed",
-          "text": "Yes, I'm committed to an agent."
-        },
-        {
-          "value": "not_committed",
-          "text": "No, I'm not committed to an agent."
-        },
-        {
-          "value": "gathering_info",
-          "text": "Just gathering information at this stage."
-        }
-      ]
-    }
-  ],
+  "modalQuestions": [],
   "deploymentInfo": {
     "repoName": "Open-House-957",
     "repoUrl": "https://github.com/arslvn93/Open-House-957",
