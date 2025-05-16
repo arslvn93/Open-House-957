@@ -63,8 +63,8 @@ const config = {
   },
   "meta": {
     "pageTitlePrefix": "🏡 Amy Caughlin Open House",
-    "navBrandLogoText": "Amy Caughlin Real Estate",
-    "privacyPolicyLink": "https://www.welpneedthis.com"
+    "navBrandLogoText": "OPEN HOUSE",
+    "privacyPolicyLink": "https://caughlinrealestate.ca/"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
